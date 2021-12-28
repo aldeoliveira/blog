@@ -479,6 +479,9 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  display: block;
+  left-margin: auto;
+  right-margin: auto
 }
 
 .img-thumbnail {
